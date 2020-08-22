@@ -1,0 +1,22 @@
+body{font-family: 'Kaushan Script', cursive;}
+h3{font-size: 30px;
+  margin: 20px;
+  color: #92a8d1;
+  text-shadow: 0.1em 0.1em 0.2em black;}
+img{margin: 20px;}
+span{font-weight: bold;}
+ul{padding: 0px;}
+li{list-style: none;}
+
+.container_1{
+  width: 340px;
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid black;}
+.container_2{
+  width: 300px;
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid black;}
